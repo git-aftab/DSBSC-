@@ -48,7 +48,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
----asm
+--- asm
 Am = 5.6;
 fm = 487;
 fs = 48700;
@@ -75,7 +75,7 @@ Output Graph
 
 Tablular Column
 
-![DSBSC](https://github.com/user-attachments/assets/3a2944c0-6583-4dfd-9953-20bf0e992bda)
+![46ca15ae-426c-4448-9423-c08241470bb8](https://github.com/user-attachments/assets/1bab70e2-5820-4130-bbf2-aaf6f5a6fc60)
 
 
 
