@@ -1,4 +1,4 @@
-![DSBSC](https://github.com/user-attachments/assets/7e5c311c-c8e9-4a80-8a89-660ff365d1ec)# DSBSC
+# DSBSC
 
 
 EX NO: 2	DSB-SC-AM MODULATOR AND DEMODULATOR
@@ -48,7 +48,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
----
+---asm
 Am = 5.6;
 fm = 487;
 fs = 48700;
@@ -66,7 +66,7 @@ s2 = (Ac-m).*cos(2*3.14*fc*t);
 s= s1-s2;
 subplot(3,1,3);
 plot(t,s)
-
+---
 
 Output Graph
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7870ad4f-6c88-4cbb-b425-f611c256fe9f" />
